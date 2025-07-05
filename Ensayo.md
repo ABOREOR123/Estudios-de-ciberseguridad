@@ -1,4 +1,4 @@
-# Malware Moderno: Fallos de Seguridad Recientes y Herramientas Gratuitas para la Detección y Mitigación
+# Malware Moderno
 
 ## Introducción
 En los últimos años, el malware ha evolucionado para aprovechar vulnerabilidades en sistemas, aplicaciones y, sobre todo, en el factor humano. A pesar de que los profesionales de la seguridad conocen los fundamentos del malware (troyanos, ransomware, spyware, etc.), los atacantes siguen explotando fallos críticos en software ampliamente utilizado, así como técnicas de ingeniería social cada vez más sofisticadas.
